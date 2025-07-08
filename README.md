@@ -29,3 +29,8 @@ Self-taught learning, beginner Python projects, data preprocessing, or how I org
 I enjoy learning how technology can simplify everyday tasks — I once automated my file organization system just for fun!
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Edward117i/Edward117i)
+
+### :zap: Actividad reciente
+<!--Start_Section-->
+
+<!--End_Section:Activity-->
