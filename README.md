@@ -32,4 +32,4 @@ I enjoy learning how technology can simplify everyday tasks — I once automated
 
 ### :zap: Actividad reciente
 <!--RECENT-ACTIVITY:start-->
-<!--RECENT-ACTIVITY:last_update-->
+<!--RECENT-ACTIVITY:end-->
