@@ -31,5 +31,6 @@ I enjoy learning how technology can simplify everyday tasks — I once automated
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Edward117i/Edward117i)
 
 ### :zap: Actividad reciente
-<!--RECENT-ACTIVITY:start-->
-<!--RECENT-ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
